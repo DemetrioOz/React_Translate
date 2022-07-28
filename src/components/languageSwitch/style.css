@@ -1,0 +1,17 @@
+.languageSwtich {
+  display: flex;
+  align-items: center;
+}
+
+.languageSwtich > button {
+ cursor: pointer;
+ background: none;
+ border: none;
+ width: 150px;
+ height: 100px;
+}
+
+img {
+  width: 100%;
+  height: 100%;
+}
